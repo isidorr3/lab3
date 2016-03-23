@@ -1,0 +1,10 @@
+-batch 
+-create my_peripheral 
+-ver 1.00.a 
+-dir "C:\materija\ra115\lab3_git\lab3" 
+-lang vhdl 
+-bus axi4lite s 
+-reg 1 
+-xps 
+-ise 
+-driver 
